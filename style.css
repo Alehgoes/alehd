@@ -1,5 +1,6 @@
 header{
     background-color: rgb(255, 20, 177);
+    color: rgb(5, 126, 156);
     display: flex;
 }
 .cabeçalho-lista-item{
